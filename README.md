@@ -1,6 +1,22 @@
 # Suspicious-login-detection-Sentinel-policy-GCP
 Detailed implementation plan to detect and respond to suspicious login attempts using Terraform. This includes enabling Cloud Audit Logs, creating a Sentinel policy, and configuring alerts and automated responses.
 
+Directory structure
+
+suspicious-login-detection/
+
+├── main.tf           # Main Terraform configuration
+
+├── variables.tf      # Variable definitions
+
+├── outputs.tf        # Outputs for resources created
+
+├── terraform.tfvars  # Variable values
+
+├── README.md         # Documentation for setup and integration
+
+
+
 
 # Suspicious Login Detection and Response
 
